@@ -6,3 +6,10 @@ here i am going to perform oprations like
  3. show student record
  4. and exit
 
+this is console application using java-15, jdbc and mysql 8.0
+
+technology used ---------------------------------------------
+programming language used :- java only
+for database :- mysql
+
+
